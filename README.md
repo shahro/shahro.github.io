@@ -1,6 +1,6 @@
 # Welcome
 
-Hey there! This is a half-tech half-life free blog of lei, he just needs to occasionally write something down, hopefully this is less boring as his last wordpress blog. ^_^
+Hey there! This is a free blog of shasha, she just needs to occasionally write something down, hopefully this is less boring as his last blog. ^_^
 
 ### License
 
