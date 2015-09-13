@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               1+1=30
+tagline:             Lei's Blog
+url:                 "http://leihro.github.io"
+paginate:            3
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+
